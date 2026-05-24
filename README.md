@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on internships
-- 📫 How to reach me insta-viplsinghvermaa
+- 📫 How to reach me insta-vipulvermaaaa
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
