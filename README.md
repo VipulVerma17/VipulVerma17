@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VipulVerma17
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C 
+- 👀 I’m interested in Cyber Security and Software Development 
+- 🌱 I’m currently learning C C+ frontend and backend 
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me insta-vipulvermaaaa
 - 😄 Pronouns: ...
